@@ -9,5 +9,5 @@ https://stackoverflow.com/questions/5946236/how-to-merge-dicts-collecting-values
 
 https://www.geeksforgeeks.org/python-round-off-dictionary-values-to-k-decimals/ << round off values in dictionary.
 
-budget.py is the pythong code for analysis on budget_data.csv in PyBank.
+budget.py is the python code for analysis on budget_data.csv in PyBank.
 election.py is the python code for analysis on election_data.csv in PyPoll.
