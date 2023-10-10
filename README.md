@@ -1,5 +1,5 @@
 # python-challenge
-Module 3 Python Challenge was assisted from tutor, Asiha Braxton-Garvin and URLs from the following links:
+Reference link for coding: 
 
 https://devenum.com/write-dictionary-to-text-file-in-python/ <<write dictionary to text file by dict.keys()
 
